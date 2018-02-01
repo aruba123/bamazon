@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "myshoppingApp",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aruba123/bamazon.git"
+  },
+  "keywords": [
+    "shoppingApp"
+  ],
+  "author": "Steven Aruba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aruba123/bamazon/issues"
+  },
+  "homepage": "https://github.com/aruba123/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "dot-env": "0.0.1",
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {}
+}
